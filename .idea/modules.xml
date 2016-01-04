@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KRFix/KRFix.iml" filepath="$PROJECT_DIR$/KRFix/KRFix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyRingFix5x.iml" filepath="$PROJECT_DIR$/KeyRingFix5x.iml" />
+    </modules>
+  </component>
+</project>
